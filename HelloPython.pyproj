@@ -18,6 +18,7 @@
     <RootNamespace>HelloPython</RootNamespace>
     <WebBrowserPort>4449</WebBrowserPort>
     <PythonDebugWebServerCommandType>코드</PythonDebugWebServerCommandType>
+    <TestFramework>Pytest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

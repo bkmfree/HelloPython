@@ -1,2 +1,5 @@
-print("Hello Python");
-print("현재 상태가 어떻게 되나요?");
+import turtle as t
+t.shape("turtle")
+t.forward(100)
+t.right(90)
+t.forward(100)
